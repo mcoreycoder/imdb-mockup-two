@@ -1,0 +1,46 @@
+html{
+    background-color: black;
+}
+
+.main-container {
+    display: flex;
+    justify-content: flex-start;
+    align-items: stretch;
+
+}
+
+.flex-container{
+    display: flex;
+    align-content: stretch;
+
+}
+
+#headimg {
+    height: 50%;
+}
+
+#tileImage {
+    margin: 0%;
+    boarder: 0%;
+    padding: 0%;
+}
+
+#seachBox {
+    align-content: stretch;
+    text-align: left;
+}
+
+header{
+    background-image: url("https://blogs-images.forbes.com/erikkain/files/2018/01/twd-header.jpg");
+    background-size: 100%;
+}
+
+aside{
+    justify-content: center;
+    background-image: url("https://cdn.vox-cdn.com/thumbor/su4JONsj2h-HICTYBA1VHts232w=/71x0:1226x866/1200x900/filters:focal(71x0:1226x866)/cdn.vox-cdn.com/uploads/chorus_image/image/53674199/151026-news-walking-dead.0.0.jpg")  ;background-size: 100%;
+}
+
+.title{
+    text-align: center;
+    align-content: center;
+}
